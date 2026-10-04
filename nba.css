@@ -1,0 +1,52 @@
+    p {
+        text-align: justify;
+        color: blue;
+    }
+
+   h1 {text-align: center;
+        color: red;
+        background-color: blue;
+    }
+    
+    h2 {
+        text-align: center;
+        color: red;
+        background-color: blue;
+    }
+
+    img {
+        height: 160px;
+    }
+
+    .nagybetu-kiemelt {
+        font-size: 32px;
+        font-weight: bold;
+    }
+
+    .piros-dolt {
+        color: red;
+        font-style: italic;
+    }
+
+   #kep-trofea {
+        height: 250px;
+   }
+
+   .kiemelt-dolt {
+        font-style: italic;
+        font-weight: bold;
+        color: rgb(124, 107, 6);
+   }
+
+   .sorkizar {
+        text-align: justify;
+   }
+
+   #kep-gyuru {
+        height: 250px;
+   }
+
+
+
+
+
