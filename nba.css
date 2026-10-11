@@ -1,3 +1,7 @@
+    body {
+        background-color: lightsteelblue;
+    }
+    
     p {
         text-align: justify;
         color: blue;
@@ -26,6 +30,7 @@
     .piros-dolt {
         color: red;
         font-style: italic;
+        font-size: 20px;
     }
 
    #kep-trofea {
@@ -36,6 +41,7 @@
         font-style: italic;
         font-weight: bold;
         color: rgb(124, 107, 6);
+        font-size: 20px;
    }
 
    .sorkizar {
@@ -46,7 +52,92 @@
         height: 250px;
    }
 
+   .nagyobb-betu {
+    font-size: 32px;
+    font-weight: bold;
+   }
+
+   .kiemelt {
+    font-weight: bold;
+   }
+
+   .nagybetu { 
+    font-size: 20px;
+   }
+
+   table {
+    border-collapse: collapse;
+   }
 
 
+   td, th {
+    border-width: 1px;
+    color: black;
+    border-style: solid;
+    text-align: center;
+   }
+
+   .celtics {
+    background-color: green;
+    color: white;
+   }
+
+   .lakers {
+    background-color: yellow;
+    color: purple;
+   }
+
+   .warriors {
+    background-color: blue;
+    color: yellow;
+   }
+
+   .bulls {
+    background-color: darkred;
+    color: white;
+   }
+
+   .spurs {
+    background-color: black;
+    color: white;
+   }
+
+   .philadelphia {
+    background-color: blue;
+    color: red;
+   }
+
+   .knicks {
+    background-color: blue;
+    color: orange;
+   }
+
+   .pistons {
+    background-color: lightskyblue;
+    color: red;
+   }
+
+   .heat {
+    background-color: darkred;
+    color: orange;
+   }
+
+   th {
+    background-color: gray;
+   }
+
+   .kosarlabda {
+    list-style-image: url(kosarlabda.png);
+   }
+
+   .margin-0 {
+    margin-bottom: 0;
+    margin-top: 0;
+   }
+
+   .jatekosok {
+    margin-top: 0;
+    margin-bottom: 0;
+   }
 
 
