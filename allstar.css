@@ -1,5 +1,5 @@
 
-h1 {
+h1, h2 {
     text-align: center;
     font-size: 50px;
 }
@@ -8,21 +8,20 @@ h1 {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    width: 700px;
+    width: 1100px;
     padding: 50px;
-    background-color: #1D4289;
+    background-color: darkgray;
     border: 3px solid black;
     color: white;
     font-size: larger;
+    color: black;
+    margin-bottom: 30px;
 }
 
-#allstar {
-    margin-left: 100px;
-    margin-top: 50px;
-}
+
 
  body {
-        background-color: lightslategrey;
+        background-color: gray;
     }
 
 #csapat {
@@ -33,19 +32,68 @@ h1 {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    width: 700px;
+    width: 1100px;
     padding: 50px;
     border: 3px solid black;
-    background-color: red;
-    color: white;
+    background-color: darkgray;
+    color: black;
     font-size: larger;
 }
 
-#jatekosok {
-    margin-left: 150px;
-    margin-top: 50px;
-}
 
 #vissza {
     height: 100px;
+}
+
+.jatekosok {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1700px;
+    background-color: darkgrey;
+    padding: 32px;
+    border: 3px solid black;
+}
+
+div div {
+    text-align: center;
+}
+
+.bekezdes {
+    font-size: large;
+    margin-bottom: 60px;
+}
+
+.nevek {
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 3px solid black;
+}
+
+.leirasok {
+    background-color: darkgray;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    padding: 32px;
+    border: 3px solid black;
+    font-size: large;
+}
+
+.kepek {
+    height: 100px;
+}
+
+#jatekos-kepek  {
+   width: 300px;
+   margin-top: 30px;
+}
+
+.balra  {
+    float: left;
+    margin-right: 20px;
+}
+
+.sorkizar {
+    text-align: justify;
+    margin-top: 30px;
 }
